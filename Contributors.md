@@ -1,3 +1,4 @@
 ## Contributors
 
 - Adithyaz
+- Pooja Gera
